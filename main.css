@@ -1,0 +1,60 @@
+.recipe{
+    padding:20px;
+    margin-bottom:50px;
+    font-size: 20px;
+    border: 5px solid blue;
+    box-sizing: border-box;
+    
+    
+}
+
+.recipe .pizza{
+    width: 200px;
+    height:auto;
+}
+
+.recipe .pasta{
+    width: 300px;
+    height:400px;
+}
+
+#paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+}
+
+.odin{
+    font-size: 50px;
+    color: blue;
+}
+
+.one,
+.two{
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.one{
+    background-color: black;
+    color: white;
+}
+
+.two{
+    background-color: yellow;
+}
+
+#confirm-button{
+    background: green;
+    color: white;
+    font-weight: bold;
+  } 
+  
+.button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+
+.highlight{
+    background-color: yellow;
+}
